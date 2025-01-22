@@ -7,8 +7,8 @@
 # server process.
 
 # Basic Site Settings
-locale                   : "en-US"
-title                    : "Xichun Cai - Academic Portfolio"
+locale                   : "zh-CN"
+title                    : "蔡希淳个人主页"
 title_separator          : "-"
 name                     : &name "Xichun Cai"
 description              : &description "A portfolio showcasing academic achievements, projects, and blogs."
