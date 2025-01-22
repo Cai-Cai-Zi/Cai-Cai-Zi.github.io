@@ -24,9 +24,9 @@ author:
   avatar           : "profile.png"
   name             : "Lixing Chen"
   pronouns         : # example: "she/her"  
-  bio              : "陈黎兴"
+  bio              : "陈黎兴 \n Associate Professor, Shanghai Jiao Tong University"
   location         : "Shanghai, China"
-  employer         : "Shanghai Jiao Tong University"
+  employer         : #"Shanghai Jiao Tong University"
   uri              : # URL
   email            : "lxchen@sjtu.edu.cn" 
 
@@ -34,9 +34,9 @@ author:
   arxiv            : # URL - Update with the correct link to your profile
   googlescholar    : "https://scholar.google.com.hk/citations?hl=zh-CN&user=boMMe2YAAAAJ"
   impactstory      : # URL
-  orcid            : "http://orcid.org/yourorcidurl"
+  orcid            : #"http://orcid.org/yourorcidurl"
   semantic         : # URL
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
+  pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   researchgate     : # URL
   scopus           : # URL
 
