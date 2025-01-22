@@ -8,10 +8,10 @@
 
 # Basic Site Settings
 locale                   : "zh-CN"
-title                    : "蔡希淳个人主页"
+title                    : "Lixing Chen"
 title_separator          : "-"
-name                     : &name "Xichun Cai"
-description              : &description "A portfolio showcasing academic achievements, projects, and blogs."
+name                     : &name "Lixing Chen"
+description              : &description "A portfolio showcasing academic achievements, projects, and teaching."
 url                      : https://Cai-Cai-Zi.github.io # the base hostname & protocol for your site e.g. "https://[your GitHub username].github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "Cai-Cai-Zi/Cai-Cai-Zi.github.io"
@@ -22,17 +22,17 @@ repository               : "Cai-Cai-Zi/Cai-Cai-Zi.github.io"
 author:
   # Biographic information
   avatar           : "profile.png"
-  name             : "Your Sidebar Name"
+  name             : "Lixing Chen"
   pronouns         : # example: "she/her"  
-  bio              : "Short biography for the left-hand sidebar"
-  location         : "Earth"
-  employer         : "Red Brick University"
+  bio              : "陈黎兴"
+  location         : "Shanghai, China"
+  employer         : "Shanghai Jiao Tong University"
   uri              : # URL
-  email            : "none@example.org" 
+  email            : "lxchen@sjtu.edu.cn" 
 
   # Academic websites
   arxiv            : # URL - Update with the correct link to your profile
-  googlescholar    : "https://scholar.google.com/citations?user=PS_CX0AAAAAJ"
+  googlescholar    : "https://scholar.google.com.hk/citations?hl=zh-CN&user=boMMe2YAAAAJ"
   impactstory      : # URL
   orcid            : "http://orcid.org/yourorcidurl"
   semantic         : # URL
@@ -44,12 +44,12 @@ author:
   bitbucket        : # Username - Update with your username on the site
   codepen          : # Username
   dribbble         : # Username
-  github           : "academicpages"
+  github           : #"academicpages"
   kaggle           : # Username  
   stackoverflow    : # User number or user number and name (i.e., use "1" or "1/jeff-atwood")    
 
   # Social media
-  bluesky          : "bsky.app" # Replace this with you Bluesky username
+  bluesky          : #"bsky.app"  Replace this with you Bluesky username
   facebook         : # Username
   flickr           : # Username
   foursquare       : # Username
