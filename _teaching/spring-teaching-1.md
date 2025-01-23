@@ -4,5 +4,4 @@ collection: teaching
 type: "Undergraduate course"
 permalink: /teaching/spring-teaching-1
 venue: "SJTU"
-date: ""
 ---
