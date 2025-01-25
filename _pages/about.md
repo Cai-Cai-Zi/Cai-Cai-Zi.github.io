@@ -18,7 +18,9 @@ redirect_from:
 </ul>
 
 <h2>Prospective Students</h2>
-<p>I am always looking for ***** to work together on ****** related topics. Please email me with your CV and transcripts if you are interested.<p>
+<div class="my-text-container">
+  <p>I am always looking for ***** to work together on ****** related topics. Please email me with your CV and transcripts if you are interested.</p>
+</div>
 
 <h2>News</h2>
 <ul>
