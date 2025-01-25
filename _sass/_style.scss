@@ -1,0 +1,36 @@
+/* styles.css */
+.paper-box {
+  display: flex;
+  align-items: flex-start;
+  justify-content: flex-start;
+  margin-bottom: 0
+}
+
+.paper-box-image {
+  margin-right: 20px;
+  flex: 0 0 auto;
+  width: 400px;
+  /* 设置图片容器的固定宽度，可以根据需求调整 */
+  height: 240px;
+  /* 你可以设置一个合适的高度 */
+  overflow: hidden;
+  /* 防止溢出的部分显示 */
+}
+
+.paper-box-image img {
+  display: block;
+  width: 100%;
+  /* 让图片的宽度充满容器 */
+  height: 100%;
+  object-fit: cover;
+  /* 确保图片被裁剪以保持其比例 */
+}
+
+.paper-box-text {
+  margin-top: -10px;
+  flex: 1;
+  padding: 0;
+  font-size: 14px;
+  line-height: 1.5;
+  /* 合适的行高 */
+}
